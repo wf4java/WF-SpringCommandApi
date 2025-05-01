@@ -5,7 +5,7 @@
   <dependency>
     <groupId>io.github.wf4java</groupId>
     <artifactId>WF-SpringCommandApi</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
   </dependency>
 ```
 

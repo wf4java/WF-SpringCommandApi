@@ -17,6 +17,6 @@ public @interface CommandHandle {
 
     String command();
 
-    Argument[] arguments();
+    Argument[] arguments() default { };
 
 }
